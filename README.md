@@ -1,6 +1,6 @@
 # Landing-Page
 
-This project consiste of making a website with all the CSS and HTML Foundations TOP knowledge.
+This project consist of making a website with all the CSS and HTML Foundations TOP knowledge.
 
 ## Assigment
 Don’t forget to commit early & often!
